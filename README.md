@@ -3,7 +3,7 @@
 
 🛠️ I love building scalable and maintainable frontends, ensuring performance and developer experience go hand in hand. From startups to enterprise applications, I thrive in crafting seamless UIs and optimizing workflows.
 
-🚀 My motto: ***"Great code should last (almost) 100 years, like an artwork."***
+🚀 My motto: **"Great code should last *(almost)* 100 years, like an artwork."**
 
 💻 **Programming Languages**: JavaScript, TypeScript
 
