@@ -1,4 +1,5 @@
-👨‍💻 About Me: **7+ years developing frontend applications in diverse industries and environments**, from startup to agencies to corporations, in office or remote, developing within large teams or solo, with various roles and responsibilities: testing, fixing code, or developing a complex monorepo from the scratch.
+### 👨‍💻 About Me:
+**7+ years developing frontend applications in diverse industries and environments**, from startup to agencies to corporations, in office or remote, developing within large teams or solo, with various roles and responsibilities: testing, fixing code, or developing a complex monorepo from the scratch.
 
 🛠️ I love building scalable and maintainable frontends, ensuring performance and developer experience go hand in hand. From startups to enterprise applications, I thrive in crafting seamless UIs and optimizing workflows.
 
