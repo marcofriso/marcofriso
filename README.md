@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me:
-**7+ years developing frontend applications in diverse industries and environments**, from startup to agencies to corporations, in office or remote, developing within large teams or solo, with various roles and responsibilities: testing, fixing code, or developing a complex monorepo from the scratch.
+**Senior Software Engineer with 7+ years developing full-stack and frontend applications in diverse industries and environments**, from startups and agencies to corporations. My proudest achievement is that I have built the frontend of the Learning Management System of a major automotive company used by over 100,000 people worldwide.
 
 🛠️ I love building scalable and maintainable frontends, ensuring performance and developer experience go hand in hand. From startups to enterprise applications, I thrive in crafting seamless UIs and optimizing workflows.
 
